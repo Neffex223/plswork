@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "learning-fabric:block/magic_block"
+    }
+  }
+}

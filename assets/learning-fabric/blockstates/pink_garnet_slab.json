@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "learning-fabric:block/pink_garnet_slab"
+    },
+    "type=double": {
+      "model": "learning-fabric:block/pink_garnet_block"
+    },
+    "type=top": {
+      "model": "learning-fabric:block/pink_garnet_slab_top"
+    }
+  }
+}
