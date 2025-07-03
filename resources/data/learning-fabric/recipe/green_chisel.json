@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        " # ",
+        " C "
+    ],
+    "key": {
+        "#": {
+            "item": "learning-fabric:green_garnet"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "C": {
+            "item": "minecraft:chain"
+        }
+    },
+    "result": {
+        "id": "learning-fabric:green_chisel",
+        "count": 1
+    },
+    "group": "misc"
+}

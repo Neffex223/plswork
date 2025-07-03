@@ -1,0 +1,81 @@
+{
+    "item.learning-fabric.pink_garnet": "Pink Garnet",
+    "item.learning-fabric.raw_pink_garnet": "Raw Pink Garnet",
+
+    "item.learning-fabric.raw_green_garnet": "Raw Green Garnet",
+    "item.learning-fabric.green_garnet": "Green Garnet",
+
+    "item.learning-fabric.pink_chisel": "Pink Garnet Magic Wand",
+    "item.learning-fabric.green_chisel": "Green Garnet Magic Wand",
+
+    "item.learning-fabric.starlight_ashes": "Starlight Ashes",
+
+    "item.learning-fabric.pink_garnet_potion": "Pink Garnet potion",
+    "item.learning-fabric.green_garnet_potion": "Green Garnet potion",
+
+    "item.learning-fabric.cauliflower": "Cauliflower",
+
+    "block.learning-fabric.pink_garnet_block": "Pink Garnet Block",
+    "block.learning-fabric.raw_pink_garnet_block": "Block of Raw Pink Garnet",
+    "block.learning-fabric.pink_garnet_ore": "Pink Garnet ore",
+    "block.learning-fabric.pink_garnet_deepslate_ore": "Deepslate Pink Garnet ore",
+
+    "block.learning-fabric.pink_garnet_stairs": "Pink Garnet Stairs",
+    "block.learning-fabric.pink_garnet_slab": "Pink Garnet Slab",
+
+    "block.learning-fabric.pink_garnet_door": "Pink Garnet Door",
+    "block.learning-fabric.pink_garnet_trapdoor": "Pink Garnet Trapdoor",
+
+    "block.learning-fabric.pink_garnet_button": "Pink Garnet Button",
+    "block.learning-fabric.pink_garnet_pressure_plate": "Pink Garnet Pressure Plate",
+
+    "block.learning-fabric.pink_garnet_fence": "Pink Garnet Fence",
+    "block.learning-fabric.pink_garnet_fence_gate": "Pink Garnet Fence Gate",
+    "block.learning-fabric.pink_garnet_wall": "Pink Garnet Wall",
+
+    "block.learning-fabric.pink_garnet_lamp": "Pink Garnet Lamp",
+
+    "block.learning-fabric.magic_block": "Magic Block",
+
+
+    "block.learning-fabric.green_garnet_ore": "Green Garnet ore",
+    "block.learning-fabric.green_garnet_deepslate_ore": "Deepslate Green Garnet ore",
+    "block.learning-fabric.raw_green_garnet_block": "Block of Raw Green Garnet",
+    "block.learning-fabric.green_garnet_block": "Green Garnet Block",
+
+
+    "itemgroup.learning-fabric.garnet_items": "Garnet Items",
+    "itemgroup.learning-fabric.garnet_blocks": "Garnet Blocks",
+
+    "tooltip.learning-fabric.magic_block.tooltip": "this block is very very §9MAGICAL§r",
+
+    "tooltip.learning-fabric.green_chisel.shift_down": "cobbled deepslate,   cobblestone,   clay     netherrack",
+    "tooltip.learning-fabric.green_chisel.shift_down1": "         into                  into          into         into",
+    "tooltip.learning-fabric.green_chisel.shift_down2": "     deepslate             stone       bricks  nether bricks",
+
+    "tooltip.learning-fabric.green_chisel": "this item magically cooks some blocks",
+    "tooltip.learning-fabric.green_chisel1": "press §eshift§r for more info",
+
+    "tooltip.learning-fabric.pink_chisel.shift_down": "Stone, End stone, Blackstone, Packed mud, Deepslate, and Tuff",
+    "tooltip.learning-fabric.pink_chisel.shift_down1": "all into there brick variants",
+
+    "tooltip.learning-fabric.pink_chisel": "turns some blocks into bricks",
+    "tooltip.learning-fabric.pink_chisel2": "press §eshift§r for more info"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

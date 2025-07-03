@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:blaze_powder"
+        },
+        {
+            "item": "minecraft:glass_bottle"
+        },
+        {
+            "item": "learning-fabric:green_garnet"
+        },
+        {
+            "item": "learning-fabric:green_garnet"
+        }
+    ],
+    "result": {
+        "id": "learning-fabric:green_garnet_potion",
+        "count": 1
+    },
+    "group": "misc"
+}

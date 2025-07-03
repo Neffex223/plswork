@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "LDL",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "learning-fabric:pink_garnet_block"
+        },
+        "L": {
+            "item": "learning-fabric:pink_garnet"
+        },
+        "D": {
+            "item": "minecraft:diamond_block"
+        }
+    },
+    "result": {
+        "id": "learning-fabric:magic_block",
+        "count": 1
+    },
+    "group": "misc"
+}
