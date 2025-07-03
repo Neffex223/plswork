@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "learning-fabric:raw_pink_garnet"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "RRR",
+    "RRR"
+  ],
+  "result": {
+    "count": 1,
+    "id": "learning-fabric:raw_pink_garnet_block"
+  }
+}

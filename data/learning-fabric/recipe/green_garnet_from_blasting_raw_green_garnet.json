@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "green_garnet",
+  "ingredient": {
+    "item": "learning-fabric:raw_green_garnet"
+  },
+  "result": {
+    "id": "learning-fabric:green_garnet"
+  }
+}

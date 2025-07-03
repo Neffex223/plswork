@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "learning-fabric:green_garnet_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "learning-fabric:green_garnet"
+  }
+}
